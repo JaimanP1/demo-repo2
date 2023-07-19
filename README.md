@@ -22,6 +22,8 @@ to check which branch, use branch command
 
 on new branch, use add and commit commands as normal
 
+check differences between main and branch using diff command
+
 create pull request
 
 go to github and approve merge there OR
