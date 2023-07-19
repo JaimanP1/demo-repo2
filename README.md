@@ -11,3 +11,5 @@ except instead of pushing straightaway (no remote repository exists to be pushed
 once that is done on the website, use https address on remote add origin action
 
 then can do the push origin main command
+
+main worked instead of master???
