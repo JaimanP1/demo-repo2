@@ -31,3 +31,13 @@ create pull request
 go to github and approve merge there OR
 
 merge from local machine
+
+## special cases notes
+
+if code is in conflict, then have three options
+
+approve from incoming changes (from brach)
+
+approve only changes made on main/master
+
+edit in vscode directly
