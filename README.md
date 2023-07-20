@@ -32,6 +32,10 @@ go to github and approve merge there OR
 
 merge from local machine
 
+then on master/main branch, pull new code
+
+finally delete branch
+
 ## special cases notes
 
 if code is in conflict, then have three options
