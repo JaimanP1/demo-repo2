@@ -61,3 +61,11 @@ can also use git reset hard
 ## forking
 
 way to create personal copy of entire repository owned by another user
+
+## vs code
+
+can also do a lot of these actions directly from vs code
+
+use gitbash for terminal settings
+
+use source control on side panel to commit
