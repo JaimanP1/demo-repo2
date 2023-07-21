@@ -70,3 +70,6 @@ use gitbash for terminal settings
 
 use source control on side panel to commit
 
+## conclusion
+
+that is comprehensive tour to git
